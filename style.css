@@ -65,6 +65,7 @@
 .character {
     margin-left: 80px;
     position: absolute;
+    object-fit: contain;
     width: 250px;
     height: 250px;
     bottom: 20px;
